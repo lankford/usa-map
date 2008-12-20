@@ -1,0 +1,15 @@
+h1. Easy to use USA map
+
+After needing to put a map up of the USA that people could click on the state and go to a URL just for that state and not finding anything remotly worth a crap, I put this together to make my life easier.
+
+I hope it helps you as well
+
+I can not think of an easier way to do this... if you can, let me know cuz you are smarter than I am ;)
+
+This is GPL
+
+I am not sure where the map came from but I have seen it everywhere and assume it is public domain ( If anyone finds out otherwise please let me know )
+
+Enjoy,
+Matt Lankford
+ThePartTimeCTO.com
